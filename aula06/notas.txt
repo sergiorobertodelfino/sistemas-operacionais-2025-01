@@ -1,0 +1,12 @@
+CSV
+nome;idade;altura;peso
+sérgio;41;1.75;90.0
+rafael;37;1.80;110.0
+
+JSON
+{
+    "nome": "Sérgio",
+    "idade": 41,
+    "altura": 1.75,
+    "peso": 90.0
+}
